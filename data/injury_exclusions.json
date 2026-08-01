@@ -1,0 +1,55 @@
+{
+  "$schema_version": "1.0",
+  "note": "Coarse keyword-and-category heuristic, not a clinical assessment. There is no injury field in the DB — exclusion works by matching sub_category and exercise-name substrings (case-insensitive). It will over-exclude safe variants and can under-exclude. /onboard echoes the concrete exclusion list back to the user before writing the profile. See README 'Honest limitations'.",
+  "complaints": {
+    "lower_back": {
+      "label": "Lower back pain",
+      "exclude_sub_categories": ["Hip hinges", "Erector spinae exercises"],
+      "exclude_name_keywords": ["Deadlift", "Bent-over"],
+      "caution_muscles": ["Erector Spinae"],
+      "note": "Axially loaded and spinal-flexion work removed. Machine and supported variants preferred."
+    },
+    "shoulder": {
+      "label": "Shoulder pain / impingement",
+      "exclude_sub_categories": ["Overhead presses"],
+      "exclude_name_keywords": ["Upright row"],
+      "caution_muscles": ["Front Delt", "Lateral Delt", "Rear Delt"],
+      "note": "Overhead pressing and upright rows removed — the classic impingement-provoking movements. Horizontal pressing and lateral raises kept but flagged for caution."
+    },
+    "knee": {
+      "label": "Knee pain",
+      "exclude_sub_categories": ["Squat type movements", "Quad isolation exercises"],
+      "exclude_name_keywords": ["Pistols", "Jump"],
+      "caution_muscles": ["Vasti of the quads", "Rectus femoris"],
+      "note": "Deep-flexion squat variants, single-leg squats, and jumping removed. Leg press/curl-style hinge work is not excluded but check load and range yourself."
+    },
+    "elbow": {
+      "label": "Elbow pain (tennis/golfer's elbow)",
+      "exclude_sub_categories": ["Triceps isolation exercises", "Biceps isolation exercises"],
+      "exclude_name_keywords": [],
+      "caution_muscles": ["Biceps", "Triceps Long Head", "Triceps Medial & Lateral Heads"],
+      "note": "Direct arm isolation work removed — the highest elbow-strain movements. Compound pressing/pulling that also hits arms is kept."
+    },
+    "wrist": {
+      "label": "Wrist pain",
+      "exclude_sub_categories": ["Forearm exercises"],
+      "exclude_name_keywords": ["Wrist"],
+      "caution_muscles": [],
+      "note": "Direct forearm/wrist work removed. These exercises carry no tracked volume credit, so nothing else in the plan changes."
+    },
+    "hip": {
+      "label": "Hip pain / impingement",
+      "exclude_sub_categories": ["Hip hinges", "Adduction exercises"],
+      "exclude_name_keywords": ["Pistols", "Bulgarian split squat", "Deficit"],
+      "caution_muscles": ["Glute maximus", "Glute medius"],
+      "note": "Deep hip flexion, hinge, and adduction work removed. Standard squat and leg-press variants are kept but flagged for caution."
+    },
+    "neck": {
+      "label": "Neck pain",
+      "exclude_sub_categories": ["Neck exercises"],
+      "exclude_name_keywords": ["Neck"],
+      "caution_muscles": [],
+      "note": "Direct neck work removed. These exercises carry no tracked volume credit, so nothing else in the plan changes."
+    }
+  }
+}

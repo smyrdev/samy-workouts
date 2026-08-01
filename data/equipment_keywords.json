@@ -1,0 +1,12 @@
+{
+  "$schema_version": "1.0",
+  "note": "Equipment inference is keyword matching on exercise names — there is no equipment field in the DB. full_gym allows everything. Other tiers allow-list keywords (any match keeps the exercise) and then deny-list keywords (any match drops it), checked case-insensitively as substrings. Names with no equipment word default to full-gym-only. See README 'Honest limitations' before editing.",
+  "tiers": {
+    "full_gym":      { "allow_all": true },
+    "home_dumbbell": { "allow_keywords": ["Dumbbell", "Cable", "Band", "Bodyweight",
+                                          "Push-up", "Pull-up", "Chin-up", "Plank", "Nordic"],
+                        "deny_keywords": ["Machine", "Barbell", "Smith", "Hack squat", "Sled"] },
+    "bodyweight":    { "allow_keywords": ["Bodyweight", "Push-up", "Pull-up", "Chin-up", "Dip",
+                                          "Plank", "Nordic", "Bridge", "Sit-up", "Lunge"] }
+  }
+}
