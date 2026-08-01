@@ -1,0 +1,1595 @@
+[
+    {
+        "exercise_name": "Handstand push-ups",
+        "category": "Upper Body",
+        "sub_category": "Overhead presses",
+        "volume": {
+            "Lower Pecs": 1.0,
+            "Upper Pecs": 1.0,
+            "Front Delt": 1.0,
+            "Triceps Medial & Lateral Heads": 1.0,
+            "Triceps Long Head": 0.25
+        }
+    },
+    {
+        "exercise_name": "Unilateral sumo dumbbell overhead press",
+        "category": "Upper Body",
+        "sub_category": "Overhead presses",
+        "volume": {
+            "Upper Pecs": 0.25,
+            "Front Delt": 1.0,
+            "Lateral Delt": 1.0,
+            "Lower Traps": 0.25,
+            "Middle Traps": 0.25,
+            "Upper Traps": 0.25,
+            "Triceps Medial & Lateral Heads": 0.5,
+            "Abs": 0.25
+        }
+    },
+    {
+        "exercise_name": "Barbell overhead press",
+        "category": "Upper Body",
+        "sub_category": "Overhead presses",
+        "volume": {
+            "Upper Pecs": 0.25,
+            "Front Delt": 1.0,
+            "Lateral Delt": 1.0,
+            "Lower Traps": 0.25,
+            "Middle Traps": 0.25,
+            "Upper Traps": 0.25,
+            "Triceps Medial & Lateral Heads": 1.0,
+            "Triceps Long Head": 0.25,
+            "Abs": 0.25
+        }
+    },
+    {
+        "exercise_name": "Standing dumbbell overhead press",
+        "category": "Upper Body",
+        "sub_category": "Overhead presses",
+        "volume": {
+            "Upper Pecs": 0.25,
+            "Front Delt": 1.0,
+            "Lateral Delt": 1.0,
+            "Lower Traps": 0.25,
+            "Middle Traps": 0.25,
+            "Upper Traps": 0.25,
+            "Triceps Medial & Lateral Heads": 0.5,
+            "Abs": 0.25
+        }
+    },
+    {
+        "exercise_name": "Arnold Press",
+        "category": "Upper Body",
+        "sub_category": "Overhead presses",
+        "volume": {
+            "Upper Pecs": 0.25,
+            "Front Delt": 1.0,
+            "Lateral Delt": 1.0,
+            "Lower Traps": 0.25,
+            "Middle Traps": 0.25,
+            "Upper Traps": 0.25,
+            "Triceps Medial & Lateral Heads": 1.0,
+            "Triceps Long Head": 0.25,
+            "Abs": 0.25
+        }
+    },
+    {
+        "exercise_name": "Cable overhead press",
+        "category": "Upper Body",
+        "sub_category": "Overhead presses",
+        "volume": {
+            "Upper Pecs": 0.25,
+            "Front Delt": 1.0,
+            "Lateral Delt": 1.0,
+            "Lower Traps": 0.25,
+            "Middle Traps": 0.25,
+            "Upper Traps": 0.25,
+            "Triceps Medial & Lateral Heads": 1.0,
+            "Triceps Long Head": 0.25,
+            "Abs": 0.25
+        }
+    },
+    {
+        "exercise_name": "45\u00b0 Incline bench press (wide grip)",
+        "category": "Upper Body",
+        "sub_category": "Chest presses",
+        "volume": {
+            "Lower Pecs": 1.0,
+            "Upper Pecs": 1.0,
+            "Front Delt": 1.0,
+            "Triceps Medial & Lateral Heads": 1.0,
+            "Triceps Long Head": 0.25
+        }
+    },
+    {
+        "exercise_name": "Cable chest press",
+        "category": "Upper Body",
+        "sub_category": "Chest presses",
+        "volume": {
+            "Lower Pecs": 1.0,
+            "Upper Pecs": 1.0,
+            "Front Delt": 1.0,
+            "Triceps Medial & Lateral Heads": 1.0,
+            "Triceps Long Head": 0.25
+        }
+    },
+    {
+        "exercise_name": "15\u00b0 Incline dumbbell bench press",
+        "category": "Upper Body",
+        "sub_category": "Chest presses",
+        "volume": {
+            "Lower Pecs": 1.0,
+            "Upper Pecs": 1.0,
+            "Front Delt": 1.0,
+            "Triceps Medial & Lateral Heads": 0.5
+        }
+    },
+    {
+        "exercise_name": "Flat dumbbell bench press",
+        "category": "Upper Body",
+        "sub_category": "Chest presses",
+        "volume": {
+            "Lower Pecs": 1.0,
+            "Upper Pecs": 1.0,
+            "Front Delt": 1.0,
+            "Triceps Medial & Lateral Heads": 0.5
+        }
+    },
+    {
+        "exercise_name": "Barbell bench press",
+        "category": "Upper Body",
+        "sub_category": "Chest presses",
+        "volume": {
+            "Lower Pecs": 1.0,
+            "Upper Pecs": 1.0,
+            "Front Delt": 1.0,
+            "Triceps Medial & Lateral Heads": 1.0,
+            "Triceps Long Head": 0.25
+        }
+    },
+    {
+        "exercise_name": "Push-ups",
+        "category": "Upper Body",
+        "sub_category": "Chest presses",
+        "volume": {
+            "Lower Pecs": 1.0,
+            "Upper Pecs": 1.0,
+            "Front Delt": 1.0,
+            "Triceps Medial & Lateral Heads": 1.0,
+            "Triceps Long Head": 0.25
+        }
+    },
+    {
+        "exercise_name": "Smith-machine push-ups",
+        "category": "Upper Body",
+        "sub_category": "Chest presses",
+        "volume": {
+            "Lower Pecs": 0.25,
+            "Rear Delt": 1.0,
+            "Lower Traps": 1.0,
+            "Middle Traps": 0.75,
+            "Lats": 1.0,
+            "Biceps": 1.0
+        }
+    },
+    {
+        "exercise_name": "Motorcycle row",
+        "category": "Upper Body",
+        "sub_category": "Pulls",
+        "volume": {
+            "Rear Delt": 1.0,
+            "Lower Traps": 1.0,
+            "Middle Traps": 1.0,
+            "Lats": 1.0,
+            "Biceps": 0.5,
+            "Triceps Long Head": 0.25,
+            "Erector Spinae": 0.5,
+            "Biceps femoris long head and semis": 0.25,
+            "Glute maximus": 0.25
+        }
+    },
+    {
+        "exercise_name": "Diagonal rows",
+        "category": "Upper Body",
+        "sub_category": "Pulls",
+        "volume": {
+            "Rear Delt": 1.0,
+            "Lower Traps": 1.0,
+            "Middle Traps": 1.0,
+            "Lats": 1.0,
+            "Biceps": 0.5,
+            "Triceps Long Head": 0.25,
+            "Erector Spinae": 0.5,
+            "Biceps femoris long head and semis": 0.25,
+            "Glute maximus": 0.25
+        }
+    },
+    {
+        "exercise_name": "Unilateral pulldowns",
+        "category": "Upper Body",
+        "sub_category": "Pulls",
+        "volume": {
+            "Lower Pecs": 0.5,
+            "Rear Delt": 0.25,
+            "Lower Traps": 1.0,
+            "Middle Traps": 0.25,
+            "Lats": 1.0,
+            "Biceps": 1.0
+        }
+    },
+    {
+        "exercise_name": "Supinated grip chin-ups",
+        "category": "Upper Body",
+        "sub_category": "Pulls",
+        "volume": {
+            "Lower Pecs": 0.25,
+            "Rear Delt": 1.0,
+            "Lower Traps": 1.0,
+            "Middle Traps": 0.75,
+            "Lats": 1.0,
+            "Biceps": 1.0
+        }
+    },
+    {
+        "exercise_name": "Half chin-up",
+        "category": "Upper Body",
+        "sub_category": "Pulls",
+        "volume": {
+            "Lower Pecs": 0.25,
+            "Rear Delt": 1.0,
+            "Lower Traps": 1.0,
+            "Middle Traps": 0.75,
+            "Lats": 1.0,
+            "Biceps": 1.0
+        }
+    },
+    {
+        "exercise_name": "Seated cable row, Arnold style",
+        "category": "Upper Body",
+        "sub_category": "Pulls",
+        "volume": {
+            "Rear Delt": 1.0,
+            "Lower Traps": 1.0,
+            "Middle Traps": 1.0,
+            "Lats": 1.0,
+            "Biceps": 0.5,
+            "Triceps Long Head": 0.25,
+            "Erector Spinae": 0.5,
+            "Biceps femoris long head and semis": 0.25,
+            "Glute maximus": 0.25
+        }
+    },
+    {
+        "exercise_name": "Neutral grip chin-ups",
+        "category": "Upper Body",
+        "sub_category": "Pulls",
+        "volume": {
+            "Lower Pecs": 0.25,
+            "Rear Delt": 1.0,
+            "Lower Traps": 1.0,
+            "Middle Traps": 0.75,
+            "Lats": 1.0,
+            "Biceps": 1.0
+        }
+    },
+    {
+        "exercise_name": "Ring chin-ups",
+        "category": "Upper Body",
+        "sub_category": "Pulls",
+        "volume": {
+            "Lower Pecs": 0.25,
+            "Rear Delt": 1.0,
+            "Lower Traps": 1.0,
+            "Middle Traps": 0.75,
+            "Lats": 1.0,
+            "Biceps": 1.0
+        }
+    },
+    {
+        "exercise_name": "Pull-ups",
+        "category": "Upper Body",
+        "sub_category": "Pulls",
+        "volume": {
+            "Lower Pecs": 0.5,
+            "Rear Delt": 0.25,
+            "Lower Traps": 1.0,
+            "Middle Traps": 0.25,
+            "Lats": 1.0,
+            "Biceps": 1.0
+        }
+    },
+    {
+        "exercise_name": "Ring pull-ups",
+        "category": "Upper Body",
+        "sub_category": "Pulls",
+        "volume": {
+            "Lower Pecs": 0.5,
+            "Rear Delt": 0.25,
+            "Lower Traps": 1.0,
+            "Middle Traps": 0.25,
+            "Lats": 1.0,
+            "Biceps": 1.0
+        }
+    },
+    {
+        "exercise_name": "Wide grip lat pulldowns",
+        "category": "Upper Body",
+        "sub_category": "Pulls",
+        "volume": {
+            "Lower Pecs": 0.5,
+            "Rear Delt": 0.25,
+            "Lower Traps": 1.0,
+            "Middle Traps": 0.25,
+            "Lats": 1.0,
+            "Biceps": 1.0
+        }
+    },
+    {
+        "exercise_name": "Close, neutral grip pulldown",
+        "category": "Upper Body",
+        "sub_category": "Pulls",
+        "volume": {
+            "Lower Pecs": 0.5,
+            "Rear Delt": 0.25,
+            "Lower Traps": 1.0,
+            "Middle Traps": 0.25,
+            "Lats": 1.0,
+            "Biceps": 1.0
+        }
+    },
+    {
+        "exercise_name": "Supinated grip pulldowns",
+        "category": "Upper Body",
+        "sub_category": "Pulls",
+        "volume": {
+            "Lower Pecs": 0.5,
+            "Rear Delt": 0.25,
+            "Lower Traps": 1.0,
+            "Middle Traps": 0.25,
+            "Lats": 1.0,
+            "Biceps": 1.0
+        }
+    },
+    {
+        "exercise_name": "Barbell bent-over row",
+        "category": "Upper Body",
+        "sub_category": "Pulls",
+        "volume": {
+            "Rear Delt": 1.0,
+            "Lower Traps": 1.0,
+            "Middle Traps": 1.0,
+            "Lats": 1.0,
+            "Biceps": 0.5,
+            "Triceps Long Head": 0.25,
+            "Erector Spinae": 0.5,
+            "Biceps femoris long head and semis": 0.25,
+            "Glute maximus": 0.25
+        }
+    },
+    {
+        "exercise_name": "Face-pulls",
+        "category": "Upper Body",
+        "sub_category": "Upper back exercises",
+        "volume": {
+            "Rear Delt": 1.0,
+            "Lower Traps": 1.0,
+            "Middle Traps": 1.0
+        }
+    },
+    {
+        "exercise_name": "Dumbbell high rows",
+        "category": "Upper Body",
+        "sub_category": "Upper back exercises",
+        "volume": {
+            "Rear Delt": 1.0,
+            "Lower Traps": 1.0,
+            "Middle Traps": 1.0,
+            "Lats": 1.0,
+            "Biceps": 0.5,
+            "Triceps Long Head": 0.25,
+            "Erector Spinae": 0.5,
+            "Biceps femoris long head and semis": 0.25,
+            "Glute maximus": 0.25
+        }
+    },
+    {
+        "exercise_name": "Landmine high rows",
+        "category": "Upper Body",
+        "sub_category": "Upper back exercises",
+        "volume": {
+            "Rear Delt": 1.0,
+            "Lower Traps": 1.0,
+            "Middle Traps": 1.0,
+            "Lats": 1.0,
+            "Biceps": 0.5,
+            "Triceps Long Head": 0.25,
+            "Erector Spinae": 0.5,
+            "Biceps femoris long head and semis": 0.25,
+            "Glute maximus": 0.25
+        }
+    },
+    {
+        "exercise_name": "Cross-over rows",
+        "category": "Upper Body",
+        "sub_category": "Upper back exercises",
+        "volume": {
+            "Rear Delt": 1.0,
+            "Lower Traps": 1.0,
+            "Middle Traps": 1.0,
+            "Lats": 1.0,
+            "Biceps": 0.5,
+            "Triceps Long Head": 0.25,
+            "Erector Spinae": 0.5,
+            "Biceps femoris long head and semis": 0.25,
+            "Glute maximus": 0.25
+        }
+    },
+    {
+        "exercise_name": "Wide barbell row",
+        "category": "Upper Body",
+        "sub_category": "Upper back exercises",
+        "volume": {
+            "Rear Delt": 1.0,
+            "Lower Traps": 1.0,
+            "Middle Traps": 1.0,
+            "Lats": 1.0,
+            "Biceps": 0.5,
+            "Triceps Long Head": 0.25,
+            "Erector Spinae": 0.5,
+            "Biceps femoris long head and semis": 0.25,
+            "Glute maximus": 0.25
+        }
+    },
+    {
+        "exercise_name": "Wide cable row",
+        "category": "Upper Body",
+        "sub_category": "Upper back exercises",
+        "volume": {
+            "Rear Delt": 1.0,
+            "Lower Traps": 1.0,
+            "Middle Traps": 1.0,
+            "Lats": 1.0,
+            "Biceps": 0.5,
+            "Triceps Long Head": 0.25,
+            "Erector Spinae": 0.5,
+            "Biceps femoris long head and semis": 0.25,
+            "Glute maximus": 0.25
+        }
+    },
+    {
+        "exercise_name": "Shoulder-pulls",
+        "category": "Upper Body",
+        "sub_category": "Upper back exercises",
+        "volume": {
+            "Rear Delt": 1.0,
+            "Lower Traps": 1.0,
+            "Middle Traps": 1.0
+        }
+    },
+    {
+        "exercise_name": "Bayesian reverse fly",
+        "category": "Upper Body",
+        "sub_category": "Upper back exercises",
+        "volume": {
+            "Rear Delt": 1.0,
+            "Lower Traps": 1.0,
+            "Middle Traps": 1.0
+        }
+    },
+    {
+        "exercise_name": "Suspended high rows",
+        "category": "Upper Body",
+        "sub_category": "Upper back exercises",
+        "volume": {
+            "Rear Delt": 1.0,
+            "Lower Traps": 1.0,
+            "Middle Traps": 1.0,
+            "Lats": 1.0,
+            "Biceps": 0.5,
+            "Triceps Long Head": 0.25,
+            "Erector Spinae": 0.5,
+            "Biceps femoris long head and semis": 0.25,
+            "Glute maximus": 0.25
+        }
+    },
+    {
+        "exercise_name": "Dumbbell reverse fly",
+        "category": "Upper Body",
+        "sub_category": "Upper back exercises",
+        "volume": {
+            "Rear Delt": 1.0,
+            "Lower Traps": 1.0,
+            "Middle Traps": 1.0
+        }
+    },
+    {
+        "exercise_name": "Side lying reverse flys",
+        "category": "Upper Body",
+        "sub_category": "Upper back exercises",
+        "volume": {
+            "Rear Delt": 1.0,
+            "Lower Traps": 1.0,
+            "Middle Traps": 1.0
+        }
+    },
+    {
+        "exercise_name": "Reverse grip barbell curl",
+        "category": "Upper Body",
+        "sub_category": "Biceps isolation exercises",
+        "volume": {
+            "Biceps": 1.0
+        }
+    },
+    {
+        "exercise_name": "Drag curls",
+        "category": "Upper Body",
+        "sub_category": "Biceps isolation exercises",
+        "volume": {
+            "Biceps": 1.0
+        }
+    },
+    {
+        "exercise_name": "Barbell curl",
+        "category": "Upper Body",
+        "sub_category": "Biceps isolation exercises",
+        "volume": {
+            "Biceps": 1.0
+        }
+    },
+    {
+        "exercise_name": "Bayesian curl",
+        "category": "Upper Body",
+        "sub_category": "Biceps isolation exercises",
+        "volume": {
+            "Biceps": 1.0
+        }
+    },
+    {
+        "exercise_name": "Bayesian hammer curl",
+        "category": "Upper Body",
+        "sub_category": "Biceps isolation exercises",
+        "volume": {
+            "Biceps": 1.0
+        }
+    },
+    {
+        "exercise_name": "Offset incline dumbbell curls",
+        "category": "Upper Body",
+        "sub_category": "Biceps isolation exercises",
+        "volume": {
+            "Biceps": 1.0
+        }
+    },
+    {
+        "exercise_name": "Zottman curls",
+        "category": "Upper Body",
+        "sub_category": "Biceps isolation exercises",
+        "volume": {
+            "Biceps": 1.0
+        }
+    },
+    {
+        "exercise_name": "Standing alternating dumbbell curl",
+        "category": "Upper Body",
+        "sub_category": "Biceps isolation exercises",
+        "volume": {
+            "Biceps": 1.0
+        }
+    },
+    {
+        "exercise_name": "Hammer concentration curls",
+        "category": "Upper Body",
+        "sub_category": "Biceps isolation exercises",
+        "volume": {
+            "Biceps": 1.0
+        }
+    },
+    {
+        "exercise_name": "Dumbbell concentration curl (supinated)",
+        "category": "Upper Body",
+        "sub_category": "Biceps isolation exercises",
+        "volume": {
+            "Biceps": 1.0
+        }
+    },
+    {
+        "exercise_name": "Unilateral dumbbell curl",
+        "category": "Upper Body",
+        "sub_category": "Biceps isolation exercises",
+        "volume": {
+            "Biceps": 1.0
+        }
+    },
+    {
+        "exercise_name": "Dumbbell preacher curls",
+        "category": "Upper Body",
+        "sub_category": "Biceps isolation exercises",
+        "volume": {
+            "Biceps": 1.0
+        }
+    },
+    {
+        "exercise_name": "Suspended triceps extensions",
+        "category": "Upper Body",
+        "sub_category": "Triceps isolation exercises",
+        "volume": {
+            "Triceps Medial & Lateral Heads": 1.0,
+            "Triceps Long Head": 1.0
+        }
+    },
+    {
+        "exercise_name": "Triceps pushdowns, forward leaning",
+        "category": "Upper Body",
+        "sub_category": "Triceps isolation exercises",
+        "volume": {
+            "Triceps Medial & Lateral Heads": 1.0,
+            "Triceps Long Head": 1.0
+        }
+    },
+    {
+        "exercise_name": "Triceps pushdown, reverse grip, supinated",
+        "category": "Upper Body",
+        "sub_category": "Triceps isolation exercises",
+        "volume": {
+            "Triceps Medial & Lateral Heads": 1.0,
+            "Triceps Long Head": 1.0
+        }
+    },
+    {
+        "exercise_name": "Triceps cross-over push-downs",
+        "category": "Upper Body",
+        "sub_category": "Triceps isolation exercises",
+        "volume": {
+            "Triceps Medial & Lateral Heads": 1.0,
+            "Triceps Long Head": 1.0
+        }
+    },
+    {
+        "exercise_name": "Skull-overs",
+        "category": "Upper Body",
+        "sub_category": "Triceps isolation exercises",
+        "volume": {
+            "Triceps Medial & Lateral Heads": 1.0,
+            "Triceps Long Head": 1.0
+        }
+    },
+    {
+        "exercise_name": "Cable triceps kickbacks",
+        "category": "Upper Body",
+        "sub_category": "Triceps isolation exercises",
+        "volume": {
+            "Triceps Medial & Lateral Heads": 1.0,
+            "Triceps Long Head": 1.0
+        }
+    },
+    {
+        "exercise_name": "Overhead triceps extension [cable variant]",
+        "category": "Upper Body",
+        "sub_category": "Triceps isolation exercises",
+        "volume": {
+            "Upper Pecs": 0.25,
+            "Front Delt": 1.0,
+            "Lateral Delt": 1.0,
+            "Lower Traps": 0.25,
+            "Middle Traps": 0.25,
+            "Upper Traps": 0.25,
+            "Triceps Medial & Lateral Heads": 1.0,
+            "Triceps Long Head": 0.25,
+            "Abs": 0.25
+        }
+    },
+    {
+        "exercise_name": "Gagn\u00e9 triceps extension",
+        "category": "Upper Body",
+        "sub_category": "Triceps isolation exercises",
+        "volume": {
+            "Triceps Medial & Lateral Heads": 1.0,
+            "Triceps Long Head": 1.0
+        }
+    },
+    {
+        "exercise_name": "Overhead rope triceps extensions",
+        "category": "Upper Body",
+        "sub_category": "Triceps isolation exercises",
+        "volume": {
+            "Triceps Medial & Lateral Heads": 1.0,
+            "Triceps Long Head": 1.0
+        }
+    },
+    {
+        "exercise_name": "Side lying lateral raise",
+        "category": "Upper Body",
+        "sub_category": "Lateral raises",
+        "volume": {
+            "Upper Pecs": 0.25,
+            "Front Delt": 1.0,
+            "Lateral Delt": 1.0,
+            "Lower Traps": 0.25,
+            "Middle Traps": 0.25,
+            "Upper Traps": 0.25
+        }
+    },
+    {
+        "exercise_name": "Modified upright row",
+        "category": "Upper Body",
+        "sub_category": "Lateral raises",
+        "volume": {
+            "Rear Delt": 1.0,
+            "Lower Traps": 1.0,
+            "Middle Traps": 1.0,
+            "Lats": 1.0,
+            "Biceps": 0.5,
+            "Triceps Long Head": 0.25,
+            "Erector Spinae": 0.5,
+            "Biceps femoris long head and semis": 0.25,
+            "Glute maximus": 0.25
+        }
+    },
+    {
+        "exercise_name": "Egyptian lateral raises",
+        "category": "Upper Body",
+        "sub_category": "Lateral raises",
+        "volume": {
+            "Upper Pecs": 0.25,
+            "Front Delt": 1.0,
+            "Lateral Delt": 1.0,
+            "Lower Traps": 0.25,
+            "Middle Traps": 0.25,
+            "Upper Traps": 0.25
+        }
+    },
+    {
+        "exercise_name": "Landmine lateral raise",
+        "category": "Upper Body",
+        "sub_category": "Lateral raises",
+        "volume": {
+            "Upper Pecs": 0.25,
+            "Front Delt": 1.0,
+            "Lateral Delt": 1.0,
+            "Lower Traps": 0.25,
+            "Middle Traps": 0.25,
+            "Upper Traps": 0.25
+        }
+    },
+    {
+        "exercise_name": "Prone incline lateral raise",
+        "category": "Upper Body",
+        "sub_category": "Lateral raises",
+        "volume": {
+            "Upper Pecs": 0.25,
+            "Front Delt": 1.0,
+            "Lateral Delt": 1.0,
+            "Lower Traps": 0.25,
+            "Middle Traps": 0.25,
+            "Upper Traps": 0.25
+        }
+    },
+    {
+        "exercise_name": "Cable lateral raise",
+        "category": "Upper Body",
+        "sub_category": "Lateral raises",
+        "volume": {
+            "Upper Pecs": 0.25,
+            "Front Delt": 1.0,
+            "Lateral Delt": 1.0,
+            "Lower Traps": 0.25,
+            "Middle Traps": 0.25,
+            "Upper Traps": 0.25
+        }
+    },
+    {
+        "exercise_name": "Full cup lateral raise",
+        "category": "Upper Body",
+        "sub_category": "Lateral raises",
+        "volume": {
+            "Upper Pecs": 0.25,
+            "Front Delt": 1.0,
+            "Lateral Delt": 1.0,
+            "Lower Traps": 0.25,
+            "Middle Traps": 0.25,
+            "Upper Traps": 0.25
+        }
+    },
+    {
+        "exercise_name": "Butterfly lateral raise",
+        "category": "Upper Body",
+        "sub_category": "Lateral raises",
+        "volume": {
+            "Upper Pecs": 0.25,
+            "Front Delt": 1.0,
+            "Lateral Delt": 1.0,
+            "Lower Traps": 0.25,
+            "Middle Traps": 0.25,
+            "Upper Traps": 0.25
+        }
+    },
+    {
+        "exercise_name": "Lean-in lateral raises",
+        "category": "Upper Body",
+        "sub_category": "Lateral raises",
+        "volume": {
+            "Upper Pecs": 0.25,
+            "Front Delt": 1.0,
+            "Lateral Delt": 1.0,
+            "Lower Traps": 0.25,
+            "Middle Traps": 0.25,
+            "Upper Traps": 0.25
+        }
+    },
+    {
+        "exercise_name": "Monkey shrugs",
+        "category": "Upper Body",
+        "sub_category": "Shrugs",
+        "volume": {
+            "Upper Traps": 1.0
+        }
+    },
+    {
+        "exercise_name": "Overhead shrugs",
+        "category": "Upper Body",
+        "sub_category": "Shrugs",
+        "volume": {
+            "Upper Traps": 1.0
+        }
+    },
+    {
+        "exercise_name": "Wide cable shrugs",
+        "category": "Upper Body",
+        "sub_category": "Shrugs",
+        "volume": {
+            "Upper Traps": 1.0
+        }
+    },
+    {
+        "exercise_name": "Wide barbell shrugs",
+        "category": "Upper Body",
+        "sub_category": "Shrugs",
+        "volume": {
+            "Upper Traps": 1.0
+        }
+    },
+    {
+        "exercise_name": "Ring fly",
+        "category": "Upper Body",
+        "sub_category": "Chest flys",
+        "volume": {
+            "Lower Pecs": 1.0,
+            "Upper Pecs": 1.0,
+            "Front Delt": 1.0
+        }
+    },
+    {
+        "exercise_name": "Dumbbell fly-press with eccentric overloading",
+        "category": "Upper Body",
+        "sub_category": "Chest flys",
+        "volume": {
+            "Lower Pecs": 1.0,
+            "Upper Pecs": 1.0,
+            "Front Delt": 1.0
+        }
+    },
+    {
+        "exercise_name": "Dumbbell flys",
+        "category": "Upper Body",
+        "sub_category": "Chest flys",
+        "volume": {
+            "Lower Pecs": 1.0,
+            "Upper Pecs": 1.0,
+            "Front Delt": 1.0
+        }
+    },
+    {
+        "exercise_name": "Bayesian fly",
+        "category": "Upper Body",
+        "sub_category": "Chest flys",
+        "volume": {
+            "Lower Pecs": 1.0,
+            "Upper Pecs": 1.0,
+            "Front Delt": 1.0
+        }
+    },
+    {
+        "exercise_name": "Butterfly pec deck flys",
+        "category": "Upper Body",
+        "sub_category": "Chest flys",
+        "volume": {
+            "Lower Pecs": 1.0,
+            "Upper Pecs": 1.0,
+            "Front Delt": 1.0
+        }
+    },
+    {
+        "exercise_name": "Decline pull-overs with cable / dumbbell / barbell",
+        "category": "Upper Body",
+        "sub_category": "Lat exercises",
+        "volume": {
+            "Lower Pecs": 0.5,
+            "Rear Delt": 1.0,
+            "Lats": 1.0,
+            "Triceps Long Head": 1.0
+        }
+    },
+    {
+        "exercise_name": "Kayak lat prayer",
+        "category": "Upper Body",
+        "sub_category": "Lat exercises",
+        "volume": {
+            "Lower Pecs": 0.5,
+            "Rear Delt": 1.0,
+            "Lats": 1.0,
+            "Triceps Long Head": 1.0
+        }
+    },
+    {
+        "exercise_name": "Lat prayers",
+        "category": "Upper Body",
+        "sub_category": "Lat exercises",
+        "volume": {
+            "Lower Pecs": 0.5,
+            "Rear Delt": 1.0,
+            "Lats": 1.0,
+            "Triceps Long Head": 1.0
+        }
+    },
+    {
+        "exercise_name": "Abdominal crunch",
+        "category": "Upper Body",
+        "sub_category": "Ab work",
+        "volume": {
+            "Abs": 1.0
+        }
+    },
+    {
+        "exercise_name": "Reverse crunch",
+        "category": "Upper Body",
+        "sub_category": "Ab work",
+        "volume": {
+            "Abs": 1.0
+        }
+    },
+    {
+        "exercise_name": "Neck bridges",
+        "category": "Upper Body",
+        "sub_category": "Neck exercises",
+        "volume": {}
+    },
+    {
+        "exercise_name": "Neck extensions",
+        "category": "Upper Body",
+        "sub_category": "Neck exercises",
+        "volume": {}
+    },
+    {
+        "exercise_name": "Neck flexion with a cable / plate",
+        "category": "Upper Body",
+        "sub_category": "Neck exercises",
+        "volume": {}
+    },
+    {
+        "exercise_name": "Lateral neck flexion with plate",
+        "category": "Upper Body",
+        "sub_category": "Neck exercises",
+        "volume": {}
+    },
+    {
+        "exercise_name": "Dumbbell wrist curls",
+        "category": "Upper Body",
+        "sub_category": "Forearm exercises",
+        "volume": {}
+    },
+    {
+        "exercise_name": "Dumbbell wrist extensions",
+        "category": "Upper Body",
+        "sub_category": "Forearm exercises",
+        "volume": {}
+    },
+    {
+        "exercise_name": "Wrist pronation",
+        "category": "Upper Body",
+        "sub_category": "Forearm exercises",
+        "volume": {}
+    },
+    {
+        "exercise_name": "Wrist supination",
+        "category": "Upper Body",
+        "sub_category": "Forearm exercises",
+        "volume": {}
+    },
+    {
+        "exercise_name": "Back extensions",
+        "category": "Upper Body",
+        "sub_category": "Erector spinae exercises",
+        "volume": {
+            "Erector Spinae": 1.0,
+            "Biceps femoris long head and semis": 1.0,
+            "Glute maximus": 1.0
+        }
+    },
+    {
+        "exercise_name": "Supermans",
+        "category": "Upper Body",
+        "sub_category": "Erector spinae exercises",
+        "volume": {
+            "Erector Spinae": 1.0,
+            "Biceps femoris long head and semis": 1.0,
+            "Glute maximus": 1.0
+        }
+    },
+    {
+        "exercise_name": "Staggered stance squat",
+        "category": "Lower Body",
+        "sub_category": "Squat type movements",
+        "volume": {
+            "Erector Spinae": 1.0,
+            "Vasti of the quads": 1.0,
+            "Glute maximus": 1.0,
+            "Soleus": 0.5,
+            "Abs": 0.25
+        }
+    },
+    {
+        "exercise_name": "Deficit deadlift",
+        "category": "Lower Body",
+        "sub_category": "Squat type movements",
+        "volume": {
+            "Upper Traps": 1.0,
+            "Lats": 0.25,
+            "Erector Spinae": 1.0,
+            "Vasti of the quads": 0.5,
+            "Biceps femoris long head and semis": 0.75,
+            "Glute maximus": 1.0,
+            "Soleus": 0.5,
+            "Abs": 0.25
+        }
+    },
+    {
+        "exercise_name": "Unilateral leg press / 45\u00b0 variant",
+        "category": "Lower Body",
+        "sub_category": "Squat type movements",
+        "volume": {
+            "Erector Spinae": 1.0,
+            "Vasti of the quads": 1.0,
+            "Glute maximus": 1.0,
+            "Soleus": 0.5,
+            "Abs": 0.25
+        }
+    },
+    {
+        "exercise_name": "Leg press",
+        "category": "Lower Body",
+        "sub_category": "Squat type movements",
+        "volume": {
+            "Erector Spinae": 1.0,
+            "Vasti of the quads": 1.0,
+            "Glute maximus": 1.0,
+            "Soleus": 0.5,
+            "Abs": 0.25
+        }
+    },
+    {
+        "exercise_name": "Pistols",
+        "category": "Lower Body",
+        "sub_category": "Squat type movements",
+        "volume": {
+            "Erector Spinae": 1.0,
+            "Vasti of the quads": 1.0,
+            "Glute maximus": 1.0,
+            "Soleus": 0.5,
+            "Abs": 0.25
+        }
+    },
+    {
+        "exercise_name": "Reverse lunge from deficit",
+        "category": "Lower Body",
+        "sub_category": "Squat type movements",
+        "volume": {
+            "Erector Spinae": 0.5,
+            "Vasti of the quads": 1.0,
+            "Glute maximus": 1.0,
+            "Glute medius": 0.5,
+            "Soleus": 0.5,
+            "Abs": 0.25
+        }
+    },
+    {
+        "exercise_name": "Low bar squats",
+        "category": "Lower Body",
+        "sub_category": "Squat type movements",
+        "volume": {
+            "Erector Spinae": 1.0,
+            "Vasti of the quads": 1.0,
+            "Glute maximus": 1.0,
+            "Soleus": 0.5,
+            "Abs": 0.25
+        }
+    },
+    {
+        "exercise_name": "Front squat",
+        "category": "Lower Body",
+        "sub_category": "Squat type movements",
+        "volume": {
+            "Erector Spinae": 1.0,
+            "Vasti of the quads": 1.0,
+            "Glute maximus": 1.0,
+            "Soleus": 0.5,
+            "Abs": 0.25
+        }
+    },
+    {
+        "exercise_name": "High bar squats",
+        "category": "Lower Body",
+        "sub_category": "Squat type movements",
+        "volume": {
+            "Erector Spinae": 1.0,
+            "Vasti of the quads": 1.0,
+            "Glute maximus": 1.0,
+            "Soleus": 0.5,
+            "Abs": 0.25
+        }
+    },
+    {
+        "exercise_name": "Bulgarian split squat from deficit",
+        "category": "Lower Body",
+        "sub_category": "Squat type movements",
+        "volume": {
+            "Erector Spinae": 1.0,
+            "Vasti of the quads": 1.0,
+            "Glute maximus": 1.0,
+            "Soleus": 0.5,
+            "Abs": 0.25
+        }
+    },
+    {
+        "exercise_name": "Step-ups",
+        "category": "Lower Body",
+        "sub_category": "Squat type movements",
+        "volume": {
+            "Erector Spinae": 1.0,
+            "Vasti of the quads": 1.0,
+            "Glute maximus": 1.0,
+            "Soleus": 0.5,
+            "Abs": 0.25
+        }
+    },
+    {
+        "exercise_name": "Nordic ham curl",
+        "category": "Lower Body",
+        "sub_category": "Leg curls",
+        "volume": {
+            "Biceps femoris short head": 1.0,
+            "Biceps femoris long head and semis": 1.0,
+            "Gastrocnemius": 1.0
+        }
+    },
+    {
+        "exercise_name": "Seated leg curl",
+        "category": "Lower Body",
+        "sub_category": "Leg curls",
+        "volume": {
+            "Biceps femoris short head": 1.0,
+            "Biceps femoris long head and semis": 1.0,
+            "Gastrocnemius": 1.0
+        }
+    },
+    {
+        "exercise_name": "Standing leg curl",
+        "category": "Lower Body",
+        "sub_category": "Leg curls",
+        "volume": {
+            "Biceps femoris short head": 1.0,
+            "Biceps femoris long head and semis": 1.0,
+            "Gastrocnemius": 1.0
+        }
+    },
+    {
+        "exercise_name": "Walk-outs",
+        "category": "Lower Body",
+        "sub_category": "Leg curls",
+        "volume": {
+            "Biceps femoris short head": 1.0,
+            "Biceps femoris long head and semis": 1.0,
+            "Gastrocnemius": 1.0
+        }
+    },
+    {
+        "exercise_name": "Gliding leg curl",
+        "category": "Lower Body",
+        "sub_category": "Leg curls",
+        "volume": {
+            "Biceps femoris short head": 1.0,
+            "Biceps femoris long head and semis": 1.0,
+            "Gastrocnemius": 1.0
+        }
+    },
+    {
+        "exercise_name": "Suspended leg curl",
+        "category": "Lower Body",
+        "sub_category": "Leg curls",
+        "volume": {
+            "Biceps femoris short head": 1.0,
+            "Biceps femoris long head and semis": 1.0,
+            "Gastrocnemius": 1.0
+        }
+    },
+    {
+        "exercise_name": "Unilateral lying leg curl",
+        "category": "Lower Body",
+        "sub_category": "Leg curls",
+        "volume": {
+            "Biceps femoris short head": 1.0,
+            "Biceps femoris long head and semis": 1.0,
+            "Gastrocnemius": 1.0
+        }
+    },
+    {
+        "exercise_name": "Glute-ham raise",
+        "category": "Lower Body",
+        "sub_category": "Leg curls",
+        "volume": {
+            "Biceps femoris short head": 1.0,
+            "Biceps femoris long head and semis": 1.0,
+            "Gastrocnemius": 1.0
+        }
+    },
+    {
+        "exercise_name": "Cable lying leg curls",
+        "category": "Lower Body",
+        "sub_category": "Leg curls",
+        "volume": {
+            "Biceps femoris short head": 1.0,
+            "Biceps femoris long head and semis": 1.0,
+            "Gastrocnemius": 1.0
+        }
+    },
+    {
+        "exercise_name": "Terminal knee extension (TKE)",
+        "category": "Lower Body",
+        "sub_category": "Quad isolation exercises",
+        "volume": {
+            "Vasti of the quads": 1.0,
+            "Rectus femoris": 1.0
+        }
+    },
+    {
+        "exercise_name": "Machine Sissy squats",
+        "category": "Lower Body",
+        "sub_category": "Quad isolation exercises",
+        "volume": {
+            "Lower Pecs": 0.25,
+            "Rear Delt": 1.0,
+            "Lower Traps": 1.0,
+            "Middle Traps": 0.75,
+            "Lats": 1.0,
+            "Biceps": 1.0
+        }
+    },
+    {
+        "exercise_name": "Belt sissy squats",
+        "category": "Lower Body",
+        "sub_category": "Quad isolation exercises",
+        "volume": {
+            "Erector Spinae": 1.0,
+            "Vasti of the quads": 1.0,
+            "Glute maximus": 1.0,
+            "Soleus": 0.5,
+            "Abs": 0.25
+        }
+    },
+    {
+        "exercise_name": "Spanish squats",
+        "category": "Lower Body",
+        "sub_category": "Quad isolation exercises",
+        "volume": {
+            "Erector Spinae": 1.0,
+            "Vasti of the quads": 1.0,
+            "Glute maximus": 1.0,
+            "Soleus": 0.5,
+            "Abs": 0.25
+        }
+    },
+    {
+        "exercise_name": "Reverse Nordic ham curls",
+        "category": "Lower Body",
+        "sub_category": "Quad isolation exercises",
+        "volume": {
+            "Vasti of the quads": 1.0,
+            "Rectus femoris": 1.0
+        }
+    },
+    {
+        "exercise_name": "Unilateral leg extension",
+        "category": "Lower Body",
+        "sub_category": "Quad isolation exercises",
+        "volume": {
+            "Vasti of the quads": 1.0,
+            "Rectus femoris": 1.0
+        }
+    },
+    {
+        "exercise_name": "Staggered stance Goodmorning",
+        "category": "Lower Body",
+        "sub_category": "Hip hinges",
+        "volume": {
+            "Upper Traps": 1.0,
+            "Lats": 0.25,
+            "Erector Spinae": 1.0,
+            "Biceps femoris long head and semis": 1.0,
+            "Glute maximus": 1.0,
+            "Abs": 0.25
+        }
+    },
+    {
+        "exercise_name": "Goodmorning",
+        "category": "Lower Body",
+        "sub_category": "Hip hinges",
+        "volume": {
+            "Upper Traps": 1.0,
+            "Lats": 0.25,
+            "Erector Spinae": 1.0,
+            "Biceps femoris long head and semis": 1.0,
+            "Glute maximus": 1.0,
+            "Abs": 0.25
+        }
+    },
+    {
+        "exercise_name": "Sumo Goodmorning",
+        "category": "Lower Body",
+        "sub_category": "Hip hinges",
+        "volume": {
+            "Upper Traps": 1.0,
+            "Lats": 0.25,
+            "Erector Spinae": 1.0,
+            "Biceps femoris long head and semis": 1.0,
+            "Glute maximus": 1.0,
+            "Abs": 0.25
+        }
+    },
+    {
+        "exercise_name": "Pull-throughs",
+        "category": "Lower Body",
+        "sub_category": "Hip hinges",
+        "volume": {
+            "Upper Traps": 1.0,
+            "Lats": 0.25,
+            "Erector Spinae": 1.0,
+            "Biceps femoris long head and semis": 1.0,
+            "Glute maximus": 1.0,
+            "Abs": 0.25
+        }
+    },
+    {
+        "exercise_name": "Reverse hyperextension",
+        "category": "Lower Body",
+        "sub_category": "Hip hinges",
+        "volume": {
+            "Upper Traps": 1.0,
+            "Lats": 0.25,
+            "Erector Spinae": 1.0,
+            "Biceps femoris long head and semis": 1.0,
+            "Glute maximus": 1.0,
+            "Abs": 0.25
+        }
+    },
+    {
+        "exercise_name": "Cable hip extension",
+        "category": "Lower Body",
+        "sub_category": "Hip hinges",
+        "volume": {
+            "Upper Traps": 1.0,
+            "Lats": 0.25,
+            "Erector Spinae": 1.0,
+            "Biceps femoris long head and semis": 1.0,
+            "Glute maximus": 1.0,
+            "Abs": 0.25
+        }
+    },
+    {
+        "exercise_name": "45\u00b0 Hip extension",
+        "category": "Lower Body",
+        "sub_category": "Hip hinges",
+        "volume": {
+            "Upper Traps": 1.0,
+            "Lats": 0.25,
+            "Erector Spinae": 1.0,
+            "Biceps femoris long head and semis": 1.0,
+            "Glute maximus": 1.0,
+            "Abs": 0.25
+        }
+    },
+    {
+        "exercise_name": "Romanian deadlift",
+        "category": "Lower Body",
+        "sub_category": "Hip hinges",
+        "volume": {
+            "Upper Traps": 1.0,
+            "Lats": 0.25,
+            "Erector Spinae": 1.0,
+            "Vasti of the quads": 0.5,
+            "Biceps femoris long head and semis": 0.75,
+            "Glute maximus": 1.0,
+            "Soleus": 0.5,
+            "Abs": 0.25
+        }
+    },
+    {
+        "exercise_name": "Unilateral Romanian deadlift (one-legged)",
+        "category": "Lower Body",
+        "sub_category": "Hip hinges",
+        "volume": {
+            "Upper Traps": 1.0,
+            "Lats": 0.25,
+            "Erector Spinae": 1.0,
+            "Vasti of the quads": 0.5,
+            "Biceps femoris long head and semis": 0.75,
+            "Glute maximus": 1.0,
+            "Soleus": 0.5,
+            "Abs": 0.25
+        }
+    },
+    {
+        "exercise_name": "Powerlifting conventional deadlift",
+        "category": "Lower Body",
+        "sub_category": "Hip hinges",
+        "volume": {
+            "Upper Traps": 1.0,
+            "Lats": 0.25,
+            "Erector Spinae": 1.0,
+            "Vasti of the quads": 0.5,
+            "Biceps femoris long head and semis": 0.75,
+            "Glute maximus": 1.0,
+            "Soleus": 0.5,
+            "Abs": 0.25
+        }
+    },
+    {
+        "exercise_name": "Sumo style (deadlift)",
+        "category": "Lower Body",
+        "sub_category": "Hip hinges",
+        "volume": {
+            "Upper Traps": 1.0,
+            "Lats": 0.25,
+            "Erector Spinae": 1.0,
+            "Vasti of the quads": 0.5,
+            "Biceps femoris long head and semis": 0.75,
+            "Glute maximus": 1.0,
+            "Soleus": 0.5,
+            "Abs": 0.25
+        }
+    },
+    {
+        "exercise_name": "Barbell standing calf raise against the rack",
+        "category": "Lower Body",
+        "sub_category": "Calf exercises",
+        "volume": {
+            "Gastrocnemius": 1.0,
+            "Soleus": 1.0
+        }
+    },
+    {
+        "exercise_name": "Straight-leg calf raise",
+        "category": "Lower Body",
+        "sub_category": "Calf exercises",
+        "volume": {
+            "Gastrocnemius": 1.0,
+            "Soleus": 1.0
+        }
+    },
+    {
+        "exercise_name": "Calf jumps",
+        "category": "Lower Body",
+        "sub_category": "Calf exercises",
+        "volume": {
+            "Gastrocnemius": 1.0,
+            "Soleus": 1.0
+        }
+    },
+    {
+        "exercise_name": "Unilateral calf raise",
+        "category": "Lower Body",
+        "sub_category": "Calf exercises",
+        "volume": {
+            "Gastrocnemius": 1.0,
+            "Soleus": 1.0
+        }
+    },
+    {
+        "exercise_name": "Seated calf raise",
+        "category": "Lower Body",
+        "sub_category": "Calf exercises",
+        "volume": {
+            "Gastrocnemius": 1.0,
+            "Soleus": 1.0
+        }
+    },
+    {
+        "exercise_name": "Glute kickbacks",
+        "category": "Lower Body",
+        "sub_category": "Glute exercises",
+        "volume": {
+            "Vasti of the quads": 0.5,
+            "Glute maximus": 1.0
+        }
+    },
+    {
+        "exercise_name": "Machine hip abductions",
+        "category": "Lower Body",
+        "sub_category": "Glute exercises",
+        "volume": {
+            "Glute medius": 1.0
+        }
+    },
+    {
+        "exercise_name": "Cable lying hip abductions",
+        "category": "Lower Body",
+        "sub_category": "Glute exercises",
+        "volume": {
+            "Glute medius": 1.0
+        }
+    },
+    {
+        "exercise_name": "Dumbbell lying hip abduction",
+        "category": "Lower Body",
+        "sub_category": "Glute exercises",
+        "volume": {
+            "Glute medius": 1.0
+        }
+    },
+    {
+        "exercise_name": "Cable standing hip abduction",
+        "category": "Lower Body",
+        "sub_category": "Glute exercises",
+        "volume": {
+            "Glute medius": 1.0
+        }
+    },
+    {
+        "exercise_name": "Side plank hip abductions",
+        "category": "Lower Body",
+        "sub_category": "Glute exercises",
+        "volume": {
+            "Glute medius": 1.0
+        }
+    },
+    {
+        "exercise_name": "Seated band hip openers (external rotation-abduction)",
+        "category": "Lower Body",
+        "sub_category": "Glute exercises",
+        "volume": {
+            "Vasti of the quads": 0.5,
+            "Glute maximus": 1.0
+        }
+    },
+    {
+        "exercise_name": "Supine band hip internal rotation",
+        "category": "Lower Body",
+        "sub_category": "Glute exercises",
+        "volume": {
+            "Vasti of the quads": 0.5,
+            "Glute maximus": 1.0
+        }
+    },
+    {
+        "exercise_name": "Hip thrust from deficit",
+        "category": "Lower Body",
+        "sub_category": "Glute exercises",
+        "volume": {
+            "Vasti of the quads": 0.5,
+            "Glute maximus": 1.0
+        }
+    },
+    {
+        "exercise_name": "Unilateral hip thrust from deficit",
+        "category": "Lower Body",
+        "sub_category": "Glute exercises",
+        "volume": {
+            "Vasti of the quads": 0.5,
+            "Glute maximus": 1.0
+        }
+    },
+    {
+        "exercise_name": "Hip adduction",
+        "category": "Lower Body",
+        "sub_category": "Adduction exercises",
+        "volume": {}
+    }
+]
