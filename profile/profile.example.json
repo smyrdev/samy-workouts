@@ -1,0 +1,16 @@
+{
+  "$schema_version": "2.0",
+  "created_at": "2026-08-01",
+  "updated_at": "2026-08-01",
+  "age": 31,
+  "height": { "value": 178, "unit": "cm" },
+  "weight": { "value": 80, "unit": "kg" },
+  "experience_level": "intermediate",
+  "equipment": "full_gym",
+  "injuries": [
+    { "key": "lower_back", "severity": "moderate", "user_note": "disc issue, 2023" }
+  ],
+  "units": "kg",
+  "training_history": [],
+  "current_plan": null
+}
